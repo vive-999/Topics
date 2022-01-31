@@ -1,7 +1,7 @@
 ﻿###	<center>		**Entity Relationship Diagram(ERD)** </center>
   
 **_ER-Diagram is a pictorial representation of data that describes how data is communicated and related to each other._**<br>
-In other words, Entitiy Relationship is the Connection between  fields(colums) of an entity(table) to anther field on another entity so that the two entities can be related to each other.
+In other words, Entitiy Relationship is the Connection between  fields(colums) of an entity(table) to anther field of another entity or same entity so that the two entities can be related to each other.
 
 
 ####  _Visual Representation of relationships lines and its meaning_
