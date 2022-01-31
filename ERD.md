@@ -7,8 +7,16 @@ In other words, Entitiy Relationship is the Connection between  fields(colums) o
 ####  _Visual Representation of relationships lines and its meaning_
 ![ PostgreSQL Architecture ](https://drive.google.com/uc?export=view&id=11I2M3DO1OAARfN6PnYia7z0aO9PkgRpT)
 
+<br>
+<br>
+
+---
+---
+
+
 
 You can use the [www.lucidchart.com](https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning/#discovery__top) tool to draw the ER-diagram at ease and export/publish in variety of formats.
 The lucidchart also provides impressive features like providing the SQL written code of the made ERD.
+
 
 
