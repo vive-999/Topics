@@ -39,6 +39,7 @@ There are basically 3 Types of Relationship.
  1. **_One-To-One_**:One-to-one relationships associate one record in one table with a single record in the other table.
  2. **_One-To-Many/Many-To-One_**: One-to-many relationships associate one record in one table with many records in the other table
  3. **_Many-To-Many_** : A _many_-to-_many relationship_ occurs when _multiple_ records in a table are associated with _multiple_ records in another table.
+![Relationship-Diagram](https://drive.google.com/uc?export=view&id=1gHRxP55vHaknRRNxDfLCGyrWeplCM0qh)
 
 
 
