@@ -45,4 +45,8 @@ There are basically 3 Types of Relationship.
 
 
 
+---
+---
+You can use the [www.lucidchart.com](https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning/#discovery__top) tool to draw the ER-diagram at ease and export/publish in variety of formats.
+The lucidchart also provides impressive features like providing the SQL written code of the made ERD.
 
