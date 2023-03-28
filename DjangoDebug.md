@@ -73,6 +73,25 @@
             "justMyCode": true,
             
             },
+             {
+            "name": "Python: Flask",
+            "python":"/home/vivekraj/FILEEXCHANGE/flaskenv/bin/python",
+            "type": "python",
+            "request": "launch",
+            "module": "flask",
+            "env": {
+                "FLASK_APP": "run.py",
+                "FLASK_DEBUG": "1",
+                "FLASK_ENVIROMENT":"DEVELOPMENT",
+            },
+            "args": [
+                "run",
+                "--no-debugger",
+                "--no-reload"
+            ],
+            "jinja": true,
+            "justMyCode": true
+        },
 
     ]
 }
